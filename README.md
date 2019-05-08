@@ -13,7 +13,7 @@ system.out.println("Hello World");
 
 ```
 ## Aufgaben für heute
--[] git Grundlagen
--[] git Übungen
--[] git in Commandozeilen(Konsole)
--[] Java coding Dojo
+- [] git Grundlagen
+- [] git Übungen
+- [] git in Commandozeilen(Konsole)
+- [] Java coding Dojo
