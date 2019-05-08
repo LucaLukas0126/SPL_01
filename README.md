@@ -3,7 +3,7 @@
 
 ## Markdown-Übungen
 * Punkt 1
-*Punkt 2
+* Punkt 2
 
 ```
 public static void main(){
