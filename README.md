@@ -1,5 +1,5 @@
 # SPL_01
-## Grundlagen der Versionsverwaltung in git
+### Grundlagen der Versionsverwaltung in git
 
 ## Markdown-Übungen
 * Punkt 1
