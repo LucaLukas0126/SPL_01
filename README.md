@@ -2,8 +2,10 @@
 # Grundlagen der Versionsverwaltung in git
 
 ## Markdown-Übungen
-* Punkt 1
-* Punkt 2
+* Überschriften
+* Verlinkungen
+* ToDo Listen
+* Code Snippets
 
 [HTL] 
 ```
